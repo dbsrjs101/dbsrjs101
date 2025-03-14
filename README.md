@@ -1,4 +1,6 @@
 ## Hi there 👋
+저는 대구과학고등학교 1학년 5반 성윤건입니다.
+🤑🤑
 
 <!--
 **dbsrjs101/dbsrjs101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
